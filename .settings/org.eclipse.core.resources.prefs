@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//WebContent/fd.jsp=UTF-8
+encoding//WebContent/views/admin_manage.jsp=UTF-8
+encoding//WebContent/views/admin_thongke.jsp=UTF-8
+encoding//src/controller/changepass.java=UTF-8
+encoding//src/controller/detail_room.java=UTF-8
+encoding//src/controller/find_people.java=UTF-8
+encoding//src/controller/forgot_pass.java=UTF-8
+encoding//src/controller/home.java=UTF-8
+encoding//src/controller/houses.java=UTF-8
+encoding//src/controller/login.java=UTF-8
+encoding//src/controller/rent_room.java=UTF-8
+encoding//src/controller/signin.java=UTF-8
+encoding//src/controller/update_trangthai.java=UTF-8
+encoding//src/dao/BaiDangDao.java=UTF-8
+encoding//src/dao/Phuong_XaDao.java=UTF-8
+encoding//src/dao/TaiKhoanDao.java=UTF-8
